@@ -26,8 +26,12 @@
       ]
     },
     "linux": {
+      "category": "public.app-category.Chat",
       "target": [
-        "AppImage"
+        "AppImage",
+        "deb",
+        "tar.gz",
+        "rpm"
       ]
     }
   },
