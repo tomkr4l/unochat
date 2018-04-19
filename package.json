@@ -27,13 +27,8 @@
     },
     "linux": {
       "target": [
-        "AppImage",
-        "deb"
+        "AppImage"
       ]
-    },
-    "win": {
-      "target": "NSIS",
-      "icon": "./build/icon.png"
     }
   },
   "repository": "https://github.com/tomkra/unochat",
